@@ -1,0 +1,9 @@
+H:\Programming\Csharp\2019\SearchASCIITool\SearchASCIITool\bin\Debug\SearchASCIITool.exe.config
+H:\Programming\Csharp\2019\SearchASCIITool\SearchASCIITool\bin\Debug\SearchASCIITool.exe
+H:\Programming\Csharp\2019\SearchASCIITool\SearchASCIITool\bin\Debug\SearchASCIITool.pdb
+H:\Programming\Csharp\2019\SearchASCIITool\SearchASCIITool\obj\Debug\SearchASCIITool.Form1.resources
+H:\Programming\Csharp\2019\SearchASCIITool\SearchASCIITool\obj\Debug\SearchASCIITool.Properties.Resources.resources
+H:\Programming\Csharp\2019\SearchASCIITool\SearchASCIITool\obj\Debug\SearchASCIITool.csproj.GenerateResource.cache
+H:\Programming\Csharp\2019\SearchASCIITool\SearchASCIITool\obj\Debug\SearchASCIITool.csproj.CoreCompileInputs.cache
+H:\Programming\Csharp\2019\SearchASCIITool\SearchASCIITool\obj\Debug\SearchASCIITool.exe
+H:\Programming\Csharp\2019\SearchASCIITool\SearchASCIITool\obj\Debug\SearchASCIITool.pdb
